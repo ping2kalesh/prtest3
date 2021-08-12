@@ -1,0 +1,2 @@
+This is new feature added as part of feature1
+new line added
